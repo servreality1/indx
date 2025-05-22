@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Sitemap: https://servreality1.github.io/indx/sitemap.xml
 Sitemap: https://servreality1.github.io/indx/sitemap.txt
+Sitemap: https://servreality1.github.io/indx/indx.txt
